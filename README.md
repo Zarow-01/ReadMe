@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Zarow-01/Zarow-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+```js
+require('zarow.js')
+```
+#
 
-Here are some ideas to get you started:
+### <img src="https://i.imgur.com/SZd2EuY.png" height="22px"> Discord Account
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord Presence](https://lanyard.cnrad.dev/api/372771862960275456)](https://discord.com/users/372771862960275456)
+  
+#
+
+#### ⚡ My GitHub Stats !
+![Developpement Industry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developpement-Industry&show_icons=true&theme=dark)
+
+#### 🦈 My favorites languages !
+![Developpement Industry's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Developpement-Industry&layout=compact&theme=dark)
+
+#### 
+
+## 📋 My social !
+
+<a href="https://discord.com/users/372771862960275456"><img src="https://i.imgur.com/7GB2pPW.png" height="60px"></a>
+<a href="https://github.com/Zarow/Readme.md"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
+</div>
