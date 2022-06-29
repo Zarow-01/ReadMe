@@ -6,12 +6,6 @@ require('zarow.js')
 ```
 #
 
-### <img src="https://i.imgur.com/SZd2EuY.png" height="22px"> Discord Account
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/372771862960275456)](https://discord.com/users/372771862960275456)
-  
-#
-
 #### ⚡ My GitHub Stats !
 ![Zarow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarow-01&show_icons=true&theme=dark)
 
