@@ -7,10 +7,10 @@ require('zarow.js')
 #
 
 #### ⚡ My GitHub Stats !
-![Zarow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarow-01&show_icons=true&theme=dark)
+![Zarow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarow&show_icons=true&theme=dark)
 
 #### 🦈 My favorites languages !
-![Zarow's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarow-01&layout=compact&theme=dark)
+![Zarow's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarow&layout=compact&theme=dark)
 
 #### 
 
