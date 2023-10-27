@@ -17,5 +17,5 @@ require('zarow.js')
 ## 📋 My social !
 
 <a href="https://discord.com/users/372771862960275456"><img src="https://i.imgur.com/7GB2pPW.png" height="60px"></a>
-<a href="https://github.com/Zarow-01/readme.md"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
+<a href="https://github.com/Zarow-01/ReadMe"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
 </div>
